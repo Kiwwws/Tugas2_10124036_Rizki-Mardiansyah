@@ -125,6 +125,4 @@ Database: `db_sekolah`
 8. **Keluar**: `logout.php` menjalankan `session_destroy()` dan kembali ke halaman login.
 
 
-## Lisensi
 
-Proyek ini dibuat untuk keperluan tugas perkuliahan.
